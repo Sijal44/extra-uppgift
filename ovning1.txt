@@ -1,4 +1,5 @@
-Detta är min första fil i övning1-repo
+Detta Ã¤r min fÃ¶rsta fil i Ã¶vning1-repo
+jag vill Ã¤ndra hÃ¤r
 
 
 
